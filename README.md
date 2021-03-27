@@ -11,4 +11,5 @@ Les taches de ce tp
 5. Créer un Client SOAP Java
 6. Créer un Client SOAP Dot Net
 7. Créer un Client SOAP PHP
-8. Déployer le Web Service dans un Projet Spring Boot
+
+Le fichier RAR représente le projet client JAVA qui permet de tester le web service
