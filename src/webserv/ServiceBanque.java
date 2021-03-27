@@ -10,7 +10,7 @@ import javax.jws.WebService;
 import metier.Compte;
 @WebService(serviceName = "BanqueWS")
 public class ServiceBanque {
-	@WebMethod(operationName = "Conversion EurDH")
+	@WebMethod(operationName = "ConversionEurDH")
 	public double convert(double montant) {
 		return montant*11;
 	}
